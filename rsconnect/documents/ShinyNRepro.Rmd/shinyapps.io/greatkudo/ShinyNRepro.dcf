@@ -1,0 +1,13 @@
+name: ShinyNRepro
+title: ShinyNRepro
+username:
+account: greatkudo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6119513
+bundleId: 5812707
+url: https://greatkudo.shinyapps.io/ShinyNRepro/
+when: 1650350870.33488
+lastSyncTime: 1650350870.33488
+asMultiple: FALSE
+asStatic: FALSE
